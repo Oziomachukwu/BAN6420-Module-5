@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project, completed as a data analysis task at the Anderson Cancer Center, demonstrates the use of **Principal Component Analysis (PCA)** to identify essential variables from the breast cancer dataset provided by `sklearn.datasets`. As a bonus, **Logistic Regression** is implemented for predictive modeling based on the reduced components.
+This project, completed as a data analysis task at the Anderson Cancer Center, demonstrates the use of **Principal Component Analysis (PCA)** to identify essential variables from the breast cancer dataset provided by `sklearn.datasets`.**Logistic Regression** is implemented for predictive modeling based on the reduced components.
 
 ---
 
