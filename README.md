@@ -27,7 +27,19 @@ This project, completed as a data analysis task at the Anderson Cancer Center, d
 3. **Logistic Regression (Bonus)**  
    - Trains a logistic regression model on the reduced dataset.
    - Saves predictions and actual labels to `predictions.csv`.
+## Key Findings
+Explained Variance: PC1 captures 44.3%, PC2 captures 18.9% (total 63.2%).
 
+Critical Features (from loadings):
+
+PC1: mean radius, mean perimeter (size-related features).
+
+PC2: worst concave points, worst fractal dimension (texture irregularity).
+
+Logistic Regression Accuracy: 0.95 (proves reduced data retains predictive power).
+
+Donor Insights
+Focus funding on variables strongly linked to PC1/PC2 (e.g., tumor size metrics). These explain the most variance and correlate with diagnosis outcomes.
 ---
 
 ## Output Location
